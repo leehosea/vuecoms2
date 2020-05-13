@@ -1,5 +1,5 @@
 const path = require('path')
-
+const a = 1
 const resolve = dir => {
   return path.join(__dirname, dir)
 }
